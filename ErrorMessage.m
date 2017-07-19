@@ -1,0 +1,3 @@
+Error in ==> c:\projects\lightscattering\calcofi\nephelometer\nephresponse\nephintegration\CotAngFun.dll
+Error in ==> C:\yaada\user\LightScattering\Calcofi\scripts\scaling\ScalingMaster.m
+On line 144  ==>                 LumpCInt{3}(i,j)=resp(i)*lumpvoldist{3}(j,k)*...
